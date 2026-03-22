@@ -1,0 +1,291 @@
+[
+  {
+    "username": "small_space_living_lee",
+    "bio": "Maximizing tiny apartments and studio spaces. Clever storage solutions, multifunctional furniture, and smart layouts.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 90.2,
+    "metrics": {
+      "gpm": 40,
+      "demographics": {
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ],
+        "gender_pct": 9247,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 321751,
+      "total_gmv_30d": 31445,
+      "follower_count": 1854255,
+      "engagement_rate": 0.07
+    },
+    "scores": {
+      "semantic_score": 0.5428,
+      "projected_score": 90.2,
+      "final_score": 0.6595
+    }
+  },
+  {
+    "username": "paint_pro_tips_mick",
+    "bio": "Interior and exterior painting techniques, roller and brush tips, and color selection advice for flawless finish results.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 87.38,
+    "metrics": {
+      "gpm": 23,
+      "demographics": {
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ],
+        "gender_pct": 8177,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 564078,
+      "total_gmv_30d": 53750,
+      "follower_count": 1142592,
+      "engagement_rate": 0.1
+    },
+    "scores": {
+      "semantic_score": 0.3445,
+      "projected_score": 87.38,
+      "final_score": 0.5315
+    }
+  },
+  {
+    "username": "plumbing_diy_skip",
+    "bio": "Home plumbing repairs and upgrades that homeowners can tackle themselves. Saving thousands on contractor bills.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 96.93,
+    "metrics": {
+      "gpm": 12,
+      "demographics": {
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ],
+        "gender_pct": 8833,
+        "major_gender": "MALE"
+      },
+      "avg_views_30d": 1869676,
+      "total_gmv_30d": 183081,
+      "follower_count": 242361,
+      "engagement_rate": 0.04
+    },
+    "scores": {
+      "semantic_score": 0.2445,
+      "projected_score": 96.93,
+      "final_score": 0.5251
+    }
+  },
+  {
+    "username": "thrift_flip_dani",
+    "bio": "Thrift store fashion finds and upcycling projects. Sustainable style on a secondhand budget for everyday wear.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 90.68,
+    "metrics": {
+      "gpm": 37,
+      "demographics": {
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "45-54"
+        ],
+        "gender_pct": 5620,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 1615229,
+      "total_gmv_30d": 45650,
+      "follower_count": 942783,
+      "engagement_rate": 0.12
+    },
+    "scores": {
+      "semantic_score": 0.3063,
+      "projected_score": 90.68,
+      "final_score": 0.5037
+    }
+  },
+  {
+    "username": "mid_century_milo",
+    "bio": "Mid-century modern interior design, vintage furniture hunting, and creating timeless spaces with retro flair.",
+    "content_style_tags": [
+      "Home",
+      "Tools & Hardware"
+    ],
+    "projected_score": 82.97,
+    "metrics": {
+      "gpm": 23,
+      "demographics": {
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ],
+        "gender_pct": 7668,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 855938,
+      "total_gmv_30d": 23644,
+      "follower_count": 1707456,
+      "engagement_rate": 0.09
+    },
+    "scores": {
+      "semantic_score": 0.3914,
+      "projected_score": 82.97,
+      "final_score": 0.492
+    }
+  },
+  {
+    "username": "vintage_archive_mo",
+    "bio": "Vintage fashion curation and authentication. Shopping guides for preloved luxury and rare designer archive pieces.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 89.09,
+    "metrics": {
+      "gpm": 15,
+      "demographics": {
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ],
+        "gender_pct": 6791,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 64834,
+      "total_gmv_30d": 127869,
+      "follower_count": 878540,
+      "engagement_rate": 0.12
+    },
+    "scores": {
+      "semantic_score": 0.2549,
+      "projected_score": 89.09,
+      "final_score": 0.4632
+    }
+  },
+  {
+    "username": "toddler_activities_jen",
+    "bio": "Educational play ideas, sensory activities, and creative projects for toddlers. Making learning fun at home.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Health"
+    ],
+    "projected_score": 90.01,
+    "metrics": {
+      "gpm": 16,
+      "demographics": {
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ],
+        "gender_pct": 7683,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 1209453,
+      "total_gmv_30d": 49720,
+      "follower_count": 1573784,
+      "engagement_rate": 0.03
+    },
+    "scores": {
+      "semantic_score": 0.2171,
+      "projected_score": 90.01,
+      "final_score": 0.4593
+    }
+  },
+  {
+    "username": "home_gym_builds",
+    "bio": "Budget home gym setup guides, equipment reviews, and space-saving fitness solutions for apartment workouts.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 92.59,
+    "metrics": {
+      "gpm": 43,
+      "demographics": {
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ],
+        "gender_pct": 6810,
+        "major_gender": "MALE"
+      },
+      "avg_views_30d": 1913655,
+      "total_gmv_30d": 122934,
+      "follower_count": 1270148,
+      "engagement_rate": 0.12
+    },
+    "scores": {
+      "semantic_score": 0.3263,
+      "projected_score": 92.59,
+      "final_score": 0.4551
+    }
+  },
+  {
+    "username": "home_office_setup_pam",
+    "bio": "Ergonomic home office design, productivity setups, and desk organization for remote workers who want to level up.",
+    "content_style_tags": [
+      "Home",
+      "Food & Beverage"
+    ],
+    "projected_score": 83.86,
+    "metrics": {
+      "gpm": 19,
+      "demographics": {
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ],
+        "gender_pct": 6805,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 1198299,
+      "total_gmv_30d": 45459,
+      "follower_count": 1777068,
+      "engagement_rate": 0.05
+    },
+    "scores": {
+      "semantic_score": 0.2704,
+      "projected_score": 83.86,
+      "final_score": 0.4498
+    }
+  },
+  {
+    "username": "bathroom_reno_tips_sue",
+    "bio": "Bathroom renovation guides, tile trends, and budget-friendly updates that make a big impact without full gut jobs.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 79.38,
+    "metrics": {
+      "gpm": 11,
+      "demographics": {
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ],
+        "gender_pct": 6620,
+        "major_gender": "FEMALE"
+      },
+      "avg_views_30d": 199845,
+      "total_gmv_30d": 7526,
+      "follower_count": 1028348,
+      "engagement_rate": 0.15
+    },
+    "scores": {
+      "semantic_score": 0.3747,
+      "projected_score": 79.38,
+      "final_score": 0.4351
+    }
+  }
+]
